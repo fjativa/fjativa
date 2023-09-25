@@ -1,4 +1,4 @@
-<h1 align="center">Hipla 👋, me llamo Fredy Jativa</h1>
+<h1 align="center">Hola 👋, me llamo Fredy Jativa</h1>
 <h3 align="center">Soy un developer web de Ecuador</h3>
 
 - 🌱 I’m currently learning **Angular**
